@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 
 - ⚡ 
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=Elliobin)](https://github.com/syl20pro/github-readme-stats&show_icons=true&theme=dark)
-
+![Elliobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliobin&show_icons=true&theme=radical)
+![Elliobin's GitHub --](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliobin&layout=compact&theme=buefy&hide_border=true)
 
