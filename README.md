@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am ✨ **Elliobin/Elliobin** ✨ 
+I am ✨ **Yongbo Xie/Elliobin** ✨ 
 
 Here are some ideas to get you started:
 
