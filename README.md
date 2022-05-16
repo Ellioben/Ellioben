@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 💬 
 - 📫 
 - 😄 
-- ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
+
+
+⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 ```
   _______   _                       _               __                            _         _   _     _                   
  |__   __| | |                     | |             / _|                          (_)       (_) | |   (_)                  
@@ -23,9 +25,27 @@ Here are some ideas to get you started:
                                                                                                                    __/ |  
                                                                                                                   |___/   
 ```
-- ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
+⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 
 
 
-![Elliobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliobin&show_icons=true&theme=radical)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliobin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Social -->
+<table width="100%" frame=void >
+<tr>
+  <td align="center">
+  <strong>&nbsp </strong>
+    
+ ![Elliobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliobin&show_icons=true&theme=radical) 
+
+  
+  </td>
+
+  <td align="center">
+  <strong>&nbsp</strong>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliobin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  </td>
+</tr>
+</table>
