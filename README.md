@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ 
 
 ![Elliobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliobin&show_icons=true&theme=radical)
-![Elliobin's GitHub --](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliobin&layout=compact&theme=buefy&hide_border=true)
+![Elliobin's GitHub --](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliobin&layout=compact&theme=radical&hide_border=true)
 
