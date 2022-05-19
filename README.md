@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <td align="center">
   <strong>&nbsp </strong>
     
- ![Elliobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elliobin&show_icons=true&theme=radical) 
+ ![Elliobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellioben&show_icons=true&theme=radical) 
 
   
   </td>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <td align="center">
   <strong>&nbsp</strong>
     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elliobin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ellioben&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   </td>
 </tr>
