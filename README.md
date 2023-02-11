@@ -15,18 +15,10 @@ Here are some ideas to get you started:
 
 
 ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ 
-```
-          o         o                 o    o                                                                       🚀 
-         <|>       <|>               🌱  <|>                                                                      <|> 
-         < >       < >               / \  / \                                                                      < \ 
-          |         |      o__ __o/  \o/  \o/    o__ __o         o              o     o__ __o    \o__ __o     o__ __o/ 
-         💫__/_ _\__o     /v     |    |    |    /v     v\       <|>            <|>   /v     v\    |     |>   /v     |  
-          |         |    />     / \  / \  / \  />       <\      < >            🎭  />       <\  / \   < >  />     / \ 
-         <o>       <o>   \      \o/  \o/  \o/  \         /       \o    o/\o    o/   \         /  \o/        \      \o/ 
-          |         |     o      |    |    |    o       o         v\  /v  v\  /v     o       o    |          o      |  
-         / \       / \    <\__  / \  / \  / \   <\__ __/>          <\/>    <\/>      <\__ __/>   / \         <\__  / \ 
 
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
+</div>
 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 
 
