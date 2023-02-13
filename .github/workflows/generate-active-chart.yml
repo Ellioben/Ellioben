@@ -10,7 +10,7 @@ on:
     - master
     paths-ignore:
       - README.md
-      - .github/workflows/rating-chart.yml
+      - .github/workflows/generate-active-chart.yml.yml
 jobs:
   build:
     runs-on: ubuntu-latest
