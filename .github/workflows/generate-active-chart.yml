@@ -27,10 +27,10 @@ jobs:
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v2.5.0        
+      - name: Push to master
+        uses: ad-m/github-push-action@v0.5.0
         with:
-         target_branch: master
-         build_dir: ./assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+         github_token: ${{ env.ACTION_TOKEN }}
+         branch: master
+         force: true
+         tags: latest
