@@ -30,6 +30,7 @@ jobs:
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9.1.1
         with:
+          token: ${{ secrets.TOKEN_WORKFLOWS }}
           branch: master
           message: 'Generate Contribution Snake'
 
