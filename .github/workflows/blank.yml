@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Configure Git
+        run: |
+          git config --global user.email "xieyongbo@tom.com"
+          git config --global user.name "Ellioben"
 
       - name: Create new file
         run: |
