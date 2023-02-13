@@ -12,7 +12,7 @@ on:
       - README.md
       - .github/workflows/generate-active-chart.yml.yml
 env:
-  GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
@@ -30,7 +30,7 @@ jobs:
       - name: Push to master
         uses: ad-m/github-push-action@v0.5.0
         with:
-         github_token: ${{ env.ACTION_TOKEN }}
+         github_token: ${{ env.GITHUB_TOKEN }}
          branch: master
          force: true
          tags: latest
