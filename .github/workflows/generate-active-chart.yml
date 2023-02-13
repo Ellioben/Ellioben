@@ -5,10 +5,12 @@ name: Generate Snake
 on:
 #  schedule:
 #    - cron: '0 0/1 * * * ?'
-  pull_request_target:
+  pull_request:
     branches:
     - master
-  workflow_dispatch:
+    paths-ignore:
+      - README.md
+      - .github/workflows/rating-chart.yml
 jobs:
   build:
     runs-on: ubuntu-latest
