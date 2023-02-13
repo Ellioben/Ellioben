@@ -11,6 +11,9 @@ on:
     paths-ignore:
       - README.md
       - .github/workflows/generate-active-chart.yml.yml
+env:
+  GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
