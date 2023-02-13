@@ -5,14 +5,10 @@ name: Generate Snake
 on:
 #  schedule:
 #    - cron: '0 0/1 * * * ?'
-  pull_request:
+  pull_request_target:
     branches:
     - master
   workflow_dispatch:
-
-env:
-    GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}  
-
 jobs:
   build:
     runs-on: ubuntu-latest
