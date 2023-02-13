@@ -27,7 +27,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git commit -m "Add new file"
+          git commit -m "Add new file1"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
