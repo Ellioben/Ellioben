@@ -31,13 +31,13 @@ jobs:
       - name: Configure Git
         run: |
           git config --global --add safe.directory /github/workspace
-      - name: Push to master
-        run: |
-         git push --force https://github.com/Ellioben/Ellioben.git master
-         with:
-         github_token: ${{ env.GITHUB_TOKEN }}
-         branch: master
-         force: true
-         tags: latest
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: master
+          message: 'Generate Contribution Snake'
+          github_token: ${{ env.GITHUB_TOKEN }}
+          force: true
+          tags: latest
 
       
