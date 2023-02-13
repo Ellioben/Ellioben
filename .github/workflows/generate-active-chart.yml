@@ -19,8 +19,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2.3.4
+      - name: Checkout code
+        uses: actions/checkout@v2
       - name: Generate Snake
         uses: Platane/snk@master
         id: snake-gif
@@ -28,12 +28,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
-      - name: Configure Git
-        run: |
-          git config --global --add safe.directory /github/workspace
-      - name: Push to branch
-        run: |
-          git push --force https://github.com/Ellioben/Ellioben.git master
       - name: Configure Git
         run: |
           git config --global --add safe.directory /github/workspace
