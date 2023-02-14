@@ -29,7 +29,7 @@ jobs:
       with:
         node-version: '14.x'
     - name: Update README.md
-      run: node timeline.js > README.md
+      run: node timeline.js >> README.md
     - name: generate report
       uses: Platane/snk@v2
       with:
