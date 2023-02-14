@@ -24,6 +24,7 @@ jobs:
     - name: Create local changes
       run: |
         echo "Hello Report!"
+        echo '-->' >> README.md
     - name: Use Node.js
       uses: actions/setup-node@v1
       with:
