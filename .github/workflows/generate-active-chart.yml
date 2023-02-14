@@ -11,33 +11,26 @@ on:
     paths-ignore:
       - README.md
       - .github/workflows/generate-active-chart.yml.yml
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2.3.4
+
       - name: Generate Snake
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Ellioben
           gif_out_path: ./assets/github-contribution-grid-snake.gif
           svg_out_path: ./assets/github-contribution-grid-snake.svg
-      - name: Configure Git
-        run: |
-          git config --global --add safe.directory /github/workspace
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: master
-          message: 'Generate Contribution Snake'
-          github_token: ${{ env.GITHUB_TOKEN }}
-          force: true
-          tags: latest
 
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7.2.1
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
       
