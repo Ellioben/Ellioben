@@ -3,7 +3,7 @@ name: New File Workflow
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   create_new_file:
