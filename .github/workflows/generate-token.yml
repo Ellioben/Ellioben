@@ -21,7 +21,7 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Create local changes
       run: |
-        echo "This is a new file." > 1111new_file.txt
+        echo "This is a new file." > 123123new_file.txt
     - name: generate report
       uses: Platane/snk@v2
       with:
@@ -41,5 +41,6 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.ACTION_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
+
