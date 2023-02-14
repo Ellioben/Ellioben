@@ -21,23 +21,23 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Create local changes
       run: |
-        echo "This is a new file." > 123123new_file.txt
+        echo "This is a new file." > xxx.txt
     - name: generate report
       uses: Platane/snk@v2
       with:
         # github user name to read the contribution graph from (**required**)
         # using action context var `github.repository_owner` or specified user
-        github_user_name: Ellioben
+        github_user_name: ${{ secrets.ACTION_USER_NAME }}
         outputs: 
           ./assets/github-snake.svg
           ./assets/github-snake-dark.svg?palette=github-dark
           ./assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
     - name: Commit files
       run: |
-        git config --global user.email xieyongbo@tom.com
-        git config --global user.name ellioben
+        git config --global user.email ${{ secrets.ACTION_EMAIL }}
+        git config --global user.name ${{ secrets.ACTION_USER_NAME }}
         git add .
-        git commit -a -m "Add changes"
+        git commit -a -m "Update changes"
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
