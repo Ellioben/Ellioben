@@ -35,7 +35,7 @@ jobs:
     - name: Commit files
       run: |
         git config --global user.email xieyongbo@tom.com
-        git config --global user.name ${{ secrets.ACTION_USER_NAME }}
+        git config --global user.name ellioben
         git add .
         git commit -a -m "Update changes"
     - name: Push changes
