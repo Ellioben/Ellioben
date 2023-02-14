@@ -24,6 +24,12 @@ jobs:
     - name: Create local changes
       run: |
         echo "Hello Report!"
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - name: Update README.md
+      run: node timeline.js > README.md
     - name: generate report
       uses: Platane/snk@v2
       with:
