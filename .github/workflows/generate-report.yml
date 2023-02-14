@@ -21,7 +21,7 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
     - name: Create local changes
       run: |
-        echo "This is a new file." > xxx.txt
+        echo "This is a new file." > xxx2.txt
     - name: generate report
       uses: Platane/snk@v2
       with:
