@@ -5,10 +5,10 @@ name: Outpush
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
-  schedule:
-  - cron: "0 0 * * *"
-#   push:
-#     branches: 'main'
+#   schedule:
+#   - cron: "0 0 * * *"
+  push:
+    branches: 'main'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,9 +31,9 @@ jobs:
         # using action context var `github.repository_owner` or specified user
         github_user_name: ${{ github.repository_owner }}
         outputs: 
-          ./assets/github-snake.svg
+          #./assets/github-snake.svg
           ./assets/github-snake-dark.svg?palette=github-dark
-          ./assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          #./assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
     - name: Commit files
       run: |
         git config --global user.email xieyongbo@tom.com
