@@ -3,7 +3,7 @@ name: New File Workflow
 on:
   push:
     branches:
-      - workflow-out
+      - master
 
 jobs:
   create_new_file:
@@ -25,11 +25,13 @@ jobs:
         run: |
           git add new_file.txt
 
-      - name: Commit changes
+      - name: commit
         run: |
-          git commit -m "Add new file1"
-
+          git config --global user.email xieyongbo@tom.com
+          git config --global user.name ellioben
+          git add .
+          git commit -m "update" -a
       - name: Push changes
-        uses: ad-m/github-push-action@workflow-out
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
