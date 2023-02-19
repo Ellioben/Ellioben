@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.05 %
+⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.44 %
 
 ---
 
-⏰ Updated on Fri, 17 Feb 2023 15:18:37 GMT
+⏰ Updated on Sun, 19 Feb 2023 01:02:02 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
 
 I am ✨ **Yongbo Xie/Ellioben** ✨ 
@@ -48,24 +50,5 @@ Here are some ideas to get you started:
   </td>
 </tr>
 </table>
--->
--->
--->
--->
--->
--->
--->
--->
--->
--->
- 🤯 
- 🤯 
-### Hi there 👋
 
-⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.17 %
 
----
-
-⏰ Updated on Sat, 18 Feb 2023 01:37:16 GMT
-
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
