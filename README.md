@@ -6,14 +6,15 @@
 
 ⏰ Updated on Sun, 19 Feb 2023 01:02:49 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
 
 
-I am ✨ **Yongbo Xie/Ellioben** ✨ 
+I am  **Yongbo Xie/Ellioben** 🤗  
+
 
 Here are some ideas to get you started:
 
-- 🎭 I’m currently working on Java/Go
+- 🎭 I’m currently working on Java/Go  ![ellioben](https://img.shields.io/badge/java-v1.0-yellow.svg)
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on nothing?
 - 👾 
