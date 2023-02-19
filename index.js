@@ -22,7 +22,7 @@ const readme = `\
 
 ⏰ Updated on ${new Date().toUTCString()}
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
+![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)\
 `
 
 console.log(readme)
