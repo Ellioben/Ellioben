@@ -40,7 +40,7 @@ jobs:
         # using action context var `github.repository_owner` or specified user
         github_user_name: ${{ github.repository_owner }}
         outputs: 
-          ./assets/github-snake.svg
+          ./assets/github-snake-dark.svg
           #./assets/github-snake-dark.svg?palette=github-dark
     - name: Commit files
       run: |
