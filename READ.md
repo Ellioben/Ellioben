@@ -10,10 +10,10 @@ Here are some ideas to get you started:
 - 👾  
 - 💬 ![Time bat](https://img.shields.io/badge/Javascript-v1.0-red.svg)
 - 📫 ![Time bat](https://img.shields.io/badge/k8s-v1.0-k8s.svg)
-- 💫 ![Time bat](https://img.shields.io/badge/operator-v1.0-operator.svg)
-- 💫 ![Time bat](https://img.shields.io/badge/chaos-blue.svg)
-- 💫 ![Time bat](https://img.shields.io/badge/springboot-gray.svg)
-- 💫 ![Time bat](https://img.shields.io/badge/mysql-yellow.svg)
+- 😲![Time bat](https://img.shields.io/badge/operator-v1.0-operator.svg)
+- 🉑 ![Time bat](https://img.shields.io/badge/chaos-blue.svg)
+- ➡️ ![Time bat](https://img.shields.io/badge/springboot-gray.svg)
+- 🗃️ ![Time bat](https://img.shields.io/badge/mysql-yellow.svg)
 
 
 
