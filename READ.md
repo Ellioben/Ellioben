@@ -4,13 +4,17 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 Here are some ideas to get you started:
 
-- 🎭 I’m currently working on Java/Go
+- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.0-red.svg)/Go
 - 🌱 I’m currently learning golang ![Time bat](https://img.shields.io/badge/Go-v1.0-red.svg)
 - 👯 I’m looking to collaborate on interesting things.
 - 👾  
 - 💬 ![Time bat](https://img.shields.io/badge/Javascript-v1.0-red.svg)
 - 📫 ![Time bat](https://img.shields.io/badge/k8s-v1.0-k8s.svg)
 - 💫 ![Time bat](https://img.shields.io/badge/operator-v1.0-operator.svg)
+- 💫 ![Time bat](https://img.shields.io/badge/chaos-blue.svg)
+- 💫 ![Time bat](https://img.shields.io/badge/springboot-gray.svg)
+- 💫 ![Time bat](https://img.shields.io/badge/mysql-yellow.svg)
+
 
 
 ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ 
