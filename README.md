@@ -15,7 +15,7 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 Here are some ideas to get you started:
 
-- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.8-red.svg)/Go(https://img.shields.io/badge/Go-v1.18-red.svg)
+- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.8-red.svg)/Go ![Time bat](https://img.shields.io/badge/Go-v1.18-red.svg)
 - 🌱 I’m currently learning something about istio ![Time bat](https://img.shields.io/badge/istio-red.svg)
 - 👯 I’m looking to collaborate on interesting things.
 - 👾  
