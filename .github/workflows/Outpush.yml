@@ -34,7 +34,7 @@ jobs:
     - name: Append README.md
       run: cat READ.md >> README.md
     - name: generate report
-      uses: Platane/snk@v3
+      uses: Platane/snk@master
       with:
         github_user_name: ${{ github.repository_owner }}
         gif_out_path: ./assets/github-contribution-grid-snake.gif
