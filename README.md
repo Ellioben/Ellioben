@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-⏳ Year progress { ███████████████████████████▁▁▁ } 91.38 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 91.39 %
 
 
-⏰ Updated on Thu, 30 Nov 2023 13:04:39 GMT
+⏰ Updated on Thu, 30 Nov 2023 13:20:37 GMT
 
 ![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
 ---
 
 
-<h1 align="center">================ </h1>
+
 
 I am **Yongbo Xie/Ellioben** 🤗
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-snake.svg" >
+  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-snake-dark.svg" >
 </div>
 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 
