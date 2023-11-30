@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 75.35 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 91.38 %
 
 
-⏰ Updated on Tue, 03 Oct 2023 00:54:48 GMT
+⏰ Updated on Thu, 30 Nov 2023 13:03:08 GMT
 
 ![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
 ---
@@ -15,13 +15,13 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 Here are some ideas to get you started:
 
-- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.8-red.svg)/Go ![Time bat](https://img.shields.io/badge/Go-v1.18-red.svg)
-- 🌱 I’m currently learning something about istio ![Time bat](https://img.shields.io/badge/istio-red.svg)
+- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.0-red.svg)/Go
+- 🌱 I’m currently learning golang ![Time bat](https://img.shields.io/badge/Go-v1.0-red.svg)
 - 👯 I’m looking to collaborate on interesting things.
 - 👾  
-- 💬 ![Time bat](https://img.shields.io/badge/Javascript-red.svg)
-- 📫 ![Time bat](https://img.shields.io/badge/k8s-k8s.svg)
-- 😲![Time bat](https://img.shields.io/badge/operator-operator.svg)
+- 💬 ![Time bat](https://img.shields.io/badge/Javascript-v1.0-red.svg)
+- 📫 ![Time bat](https://img.shields.io/badge/k8s-v1.0-k8s.svg)
+- 😲![Time bat](https://img.shields.io/badge/operator-v1.0-operator.svg)
 - 🉑 ![Time bat](https://img.shields.io/badge/chaos-blue.svg)
 - ➡️ ![Time bat](https://img.shields.io/badge/springboot-gray.svg)
 - 🗃️ ![Time bat](https://img.shields.io/badge/mysql-yellow.svg)
