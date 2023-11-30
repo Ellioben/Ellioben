@@ -37,8 +37,8 @@ jobs:
       uses: Platane/snk@master
       with:
         github_user_name: ${{ github.repository_owner }}
-        gif_out_path: ./assets/github-contribution-grid-snake.gif
-        svg_out_path: ./assets/github-contribution-grid-snake.svg
+        gif_out_path: ./assets/1.gif
+        svg_out_path: ./assets/2.svg
     - name: Commit files
       run: |
         git config --global user.email xieyongbo@tom.com
