@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { ███████████████████████████▁▁▁ } 91.39 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 91.52 %
 
 
-⏰ Updated on Thu, 30 Nov 2023 13:27:25 GMT
+⏰ Updated on Fri, 01 Dec 2023 00:49:37 GMT
 
 ![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
 ---
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-contribution-grid-snake.svg" >
+  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-snake-dark.svg" >
 </div>
 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 
