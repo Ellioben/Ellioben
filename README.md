@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.10 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.38 %
 
 
-⏰ Updated on Fri, 05 Jan 2024 00:33:23 GMT
+⏰ Updated on Sat, 06 Jan 2024 00:46:57 GMT
 
 ![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
 ---
@@ -15,12 +15,12 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 Here are some ideas to get you started:
 
-- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.8-red.svg)/Go
-- 🌱 I’m currently learning golang ![Time bat](https://img.shields.io/badge/Go-v1.20-red.svg)
+- 🎭 I’m currently working on Java![Time bat](https://img.shields.io/badge/java-v1.0-red.svg)/Go
+- 🌱 I’m currently learning golang ![Time bat](https://img.shields.io/badge/Go-v1.0-red.svg)
 - 👯 I’m looking to collaborate on interesting things.
 - 👾  
 - 💬 ![Time bat](https://img.shields.io/badge/Javascript-v1.0-red.svg)
-- 📫 ![Time bat](https://img.shields.io/badge/k8s-v1.24-k8s.svg)
+- 📫 ![Time bat](https://img.shields.io/badge/k8s-v1.0-k8s.svg)
 - 😲![Time bat](https://img.shields.io/badge/operator-v1.0-operator.svg)
 - 🉑 ![Time bat](https://img.shields.io/badge/chaos-blue.svg)
 - ➡️ ![Time bat](https://img.shields.io/badge/springboot-gray.svg)
