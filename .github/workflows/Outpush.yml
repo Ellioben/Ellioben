@@ -13,34 +13,39 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Update README.md
-        run: node index.js > README.md
-
-      - name: Append README.md
-        run: cat README.md >> README.md
-
-      - name: Generate report
-        uses: Platane/snk@master
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-
-      - name: Commit files
-        run: |
-          git config --global user.email "xieyongbo@tom.com"
-          git config --global user.name "ellioben"
-          git add .
-          git commit -a -m "Update changes"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.ACTION_TOKEN }}
-          branch: ${{ github.ref }}
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
+        fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+    - name: Create local changes
+      run: |
+        echo "Hello Report!"
+        echo ' 🤯 ' >> README.md
+    - name: Use Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14.x'
+    - name: Update README.md
+      run: node index.js > README.md
+    - name: Append README.md
+      run: cat READ.md >> README.md
+    - name: generate report
+      uses: Platane/snk@master
+      with:
+        github_user_name: ${{ github.repository_owner }}
+        gif_out_path: ./assets/github-contribution-grid-snake.gif
+        svg_out_path: ./assets/github-contribution-grid-snake.svg
+    - name: Commit files
+      run: |
+        git config --global user.email xieyongbo@tom.com
+        git config --global user.name ellioben
+        git add .
+        git commit -a -m "Update changes"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.ACTION_TOKEN }}
+        branch: ${{ github.ref }}
