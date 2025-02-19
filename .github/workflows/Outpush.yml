@@ -40,7 +40,7 @@ jobs:
         svg_out_path: ./assets/github-contribution-grid-snake.svg
     - name: Commit files
       run: |
-        git config --global user.email xieyongbo@tom.com
+        git config --global user.email xieyongbo1024@163.com
         git config --global user.name ellioben
         git add .
         git commit -a -m "Update changes"
