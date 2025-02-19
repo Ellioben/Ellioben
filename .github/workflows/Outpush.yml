@@ -33,12 +33,14 @@ jobs:
     - name: Append README.md
       run: cat READ.md >> README.md
     - name: generate report
-      uses: Platane/snk@master
+      uses: Platane/snk@v3
       with:
         github_user_name: ${{ github.repository_owner }}
         outputs: |
           ./assets/github-contribution-grid-snake.gif
           ./assets/github-contribution-grid-snake.svg
+          .assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
     - name: Commit files
       run: |
         git config --global user.email xieyongbo1024@163.com
