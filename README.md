@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/ocean.gif" >
+  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-snake-dark.svg" >
 </div>
 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ 💫 ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ ⚡ 
 
