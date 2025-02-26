@@ -1,0 +1,30 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时运行一次
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # 获取完整提交历史
+
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+
+    - name: Generate README
+      run: |
+        node index.js > README.md
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        force: true
+        branch: main
+        github_token: ${{ secrets.GITHUB_TOKEN }}
