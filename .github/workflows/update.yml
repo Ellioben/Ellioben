@@ -11,7 +11,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # 获取完整提交历史
+        fetch-depth: 0
+        ref: main  # 明确指定分支
 
     - name: Setup Node
       uses: actions/setup-node@v3
@@ -28,3 +29,4 @@ jobs:
         force: true
         branch: main
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        tags: false  # 禁用标签推送
