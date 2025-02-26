@@ -15,7 +15,7 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 近年来一直是云原生技术实践者，专注Go语言开发，主要技术领域：
 
-- ☁️ 云原生技术栈: ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white) ![Chaos](https://img.shields.io/badge/Chaos_Engineering-FF0000?logo=chaos-engineering&logoColor=white) ![Gloo](https://img.shields.io/badge/Gloo_Gateway-0F172A?logo=soloio&logoColor=white)
+- ☁️ 云原生技术栈: ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Istio](https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white)![Gloo](https://img.shields.io/badge/Gloo_Gateway-0F172A?logo=soloio&logoColor=white)
 - 🚀 核心开发: ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-009688?logo=api&logoColor=white)
 - 🏗️ 传统架构: ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 - 📦 中间件: ![TiDB](https://img.shields.io/badge/TiDB-000000?logo=tidb&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Exporter](https://img.shields.io/badge/Exporter-7E57C2?logo=prometheus&logoColor=white)
