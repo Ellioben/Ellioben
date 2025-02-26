@@ -2,11 +2,13 @@
 
 ⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 15.42 %
 
-⏰ Updated on Wed, 26 Feb 2025 06:47:24 GMT
+
+⏰ Updated on Wed, 26 Feb 2025 06:57:58 GMT
 
 ![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
-
 ---
+
+![Year Progress](https://progress-bar.dev/15.421990620940848/?&title=Year+Progress&width=600&suffix=%25&type=gradient&gradient=ff0000,8f00ff&steps=7)
 
 
 
