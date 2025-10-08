@@ -24,16 +24,15 @@ I am **Yongbo Xie/Ellioben** 🤗
 - 📦 中间件: ![TiDB](https://img.shields.io/badge/TiDB-000000?logo=tidb&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Exporter](https://img.shields.io/badge/Exporter-7E57C2?logo=prometheus&logoColor=white)
 - 🔧 运维体系: ![Chaos](https://img.shields.io/badge/Chaos_Engineering-FF0000?logo=chaos-engineering&logoColor=white) ![Operator](https://img.shields.io/badge/Operator_Framework-0FBA9C?logo=redhat-openshift&logoColor=white)
 
-技术聚焦：
-- 💻 主语言: Go (Golang) 开发经验 3年+
-- 📚 技术积累: 4年Java服务端开发经验（SpringBoot/MyBatis）
-- ☸️ Kubernetes二次开发及Operator设计
-- 🛠 云原生中间件
+技术聚焦： 
+- 📚 技术积累: Go (Golang) 开发经验 3年+，4年Java服务端开发经验（SpringBoot/MyBatis）
+- ☸️ Kubernetes二次扩展及Operator设计
+- 🛠 云原生中间件，FinOps
 - 🔥 混沌工程实践与稳定性保障
 - 🚢 MLOps平台开发: ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubernetes&logoColor=white)
 
 
-- 🧠 技术探索: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 基础开发 | 区块链原理研究 | AI工程化实践 ｜ 智能体应用
+- 🧠 技术探索: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 产品｜开发 | 区块链| 智能合约 | AI工程化实践 ｜ 智能体应用
 
 ---
 方向未来方向：
