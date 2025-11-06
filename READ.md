@@ -33,12 +33,6 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-snake-dark.svg" >
-</div>
-
-
---- 
 
 <!-- Social -->
 <table width="100%" frame=void >
