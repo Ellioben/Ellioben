@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⏳ Year progress { █████████████████████████▁▁▁▁▁ } 84.67 %
+⏳ Year progress { █████████████████████████▁▁▁▁▁ } 84.94 %
 
 ---
 
-⏰ Updated on Thu, 06 Nov 2025 01:10:29 GMT
+⏰ Updated on Fri, 07 Nov 2025 01:10:02 GMT
 
 ![Time bat](https://img.shields.io/badge/TimeBar-v1.0-red.svg)
 ---
@@ -45,12 +45,6 @@ I am **Yongbo Xie/Ellioben** 🤗
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ellioben/Ellioben/main/assets/github-snake-dark.svg" >
-</div>
-
-
---- 
 
 <!-- Social -->
 <table width="100%" frame=void >
