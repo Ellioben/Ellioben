@@ -2,7 +2,7 @@
 
 
 
-I am **Yongbo Xie/Ellioben** 🤗
+I am **～** 🤗
 
 近年来一直是云原生技术实践者，专注Go语言开发，主要技术领域：
 
