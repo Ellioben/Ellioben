@@ -13,9 +13,9 @@ I am **Yongbo Xie/Ellioben** 🤗
 - 🔧 运维体系: ![Chaos](https://img.shields.io/badge/Chaos_Engineering-FF0000?logo=chaos-engineering&logoColor=white) ![Operator](https://img.shields.io/badge/Operator_Framework-0FBA9C?logo=redhat-openshift&logoColor=white)
 
 技术聚焦： 
-- 📚 技术积累: Go (Golang) 开发经验 3年+，4年Java服务端开发经验（SpringBoot/MyBatis）
-- ☸️ Kubernetes二次扩展及Operator设计
-- 🛠 云原生中间件，FinOps
+- 📚 技术积累: 多年云原生开发经验，及服务端开发经验。
+- ☸️ 熟悉Kubernetes各个切入点扩展
+- 🛠 云原生各种中间件，FinOps，DevOps，Chaos，MLOps
 - 🔥 混沌工程实践与稳定性保障
 - 🚢 MLOps平台开发: ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubernetes&logoColor=white)
 
