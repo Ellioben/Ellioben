@@ -18,6 +18,7 @@ I am **～** 🤗
 - 🛠 云原生各种中间件，FinOps，DevOps，Chaos，MLOps
 - 🔥 混沌工程实践与稳定性保障
 - 🚢 MLOps平台开发: ![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?logo=kubernetes&logoColor=white)
+- 🤖 推动公司AI（SDD）研发体系化建设和AI资产化落地
 
 
 - 🧠 技术探索: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 产品｜开发 | 区块链| 智能合约 | AI工程化实践 ｜ 智能体应用
